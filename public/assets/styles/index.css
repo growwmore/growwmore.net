@@ -1,0 +1,10 @@
+@tailwind base;
+
+@tailwind components;
+
+@font-face {
+    font-family: 'Matryoshka';
+    src: local('Matryoshka'), url('./fonts/Matryoshka_S.ttf');
+}
+
+@tailwind utilities;
